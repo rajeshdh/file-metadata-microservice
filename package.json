@@ -1,0 +1,28 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "file metadata microservice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshdh/file-metadata-microservice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "multer",
+    "fileupload"
+  ],
+  "author": "rajesh dhiman @paharihacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshdh/file-metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/rajeshdh/file-metadata-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
